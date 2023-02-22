@@ -1,0 +1,10 @@
+Adafruit-PureIO==1.1.10
+certifi==2022.12.7
+charset-normalizer==3.0.1
+ecomet-i2c-sensors==0.1.5
+idna==3.4
+json5==0.9.11
+pickle5==0.0.12
+pkg_resources==0.0.0
+requests==2.28.2
+urllib3==1.26.14

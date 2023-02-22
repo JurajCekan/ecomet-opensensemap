@@ -1,0 +1,6 @@
+# Configuration file. Save it sa config.py
+
+SENSEBOX_ID = ''
+SENSEBOX_SENSOR_ID_PRESSURE = ''
+SENSEBOX_SENSOR_ID_TEMPERATURE = ''
+SENSEBOX_SENSOR_ID_HUMIDITY = ''
